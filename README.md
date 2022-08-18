@@ -9,8 +9,8 @@
 
   <p align="center">
     AIUB Robotic Crew (ARC) is a group of undergraduate students from American International University-Bangladesh (AIUB) who are passionate about the field 
-    of robotics and its applications. The team was formed with the purpose to compete in the 2016 University Rover Challenge. This is an annual 
-    international robotics competition for college students held in the United States since its inception in 2006.
+    of robotics and its applications. The team was formed with the purpose to design and build the next generation of Mars rovers that will one day work alongside
+    astronauts exploring the Red Planet.
     <br />
     <a href="https://arc.aiub.edu/"><strong>Explore the website »</strong></a>
     <br />
@@ -25,22 +25,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+_Our rover can complete four missions, which are given below respectively:_
 
-Since there are robot control, programming and software parts here on GitHub, you should visit our main website for details about the complete project. 
-
-Website Link: [https://arc.aiub.edu](https://arc.aiub.edu)
-
-<!-- 
-[![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-ARC began as a small group of students (mainly third-year undergraduates) with little experience, but they have made up for it with their desire to learn and succeed
-in pursuing their goals.
-
-The squad was founded at the beginning of 2015, and by April of that year, they had received consent from their university to begin participating in the competition.
-Following that, the AIUB Robotic Crew competed in the University Rover Challenge and represented Bangladesh.
-
-
-
+1. Investigate a site for the presence of current or past life. 
+2. Deliver a variety of objects to astronauts in the field across rugged terrain. 
+3. Perform dexterous operations on a mock lander using a robotic arm. 
+4. Autonomously travel to a series of locations.
 
 <!-- LICENSE -->
 ## License

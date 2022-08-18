@@ -5,7 +5,7 @@
     <img src="images/logo.jpg" alt="Logo" width="200" height="200">
   </a>
 
-  <h1 align="center">AIUB ROBOTIC CREW</h1>
+  <h1 align="center"> <strong> AIUB ROBOTIC CREW </strong> </h1>
 
   <p align="center">
     AIUB Robotic Crew (ARC) is a group of undergraduate students from American International University-Bangladesh (AIUB) who are passionate about the field 
@@ -14,12 +14,7 @@
     <br />
     <a href="https://arc.aiub.edu/"><strong>Explore the website »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://www.youtube.com/watch?v=LRO5xW3Wr8Q&feature=emb_title&ab_channel=AIUBROBOTICCREW"> <h3> View Demo </h3> </a>
   </p>
 </div>
 
@@ -47,35 +42,27 @@ Following that, the AIUB Robotic Crew competed in the University Rover Challenge
 
 
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+    <br />
+    <br />
 
 
 
 <!-- CONTACT -->
-## Contact
-Partho Sarothi Roy - [LinkedIn](https://www.linkedin.com/in/mahabubul470/) - mahabubul470@gmail.com
-Mahabubul Hasan - [LinkedIn](https://www.linkedin.com/in/mahabubul470/) - mahabubul470@gmail.com
+
+
+
+<h3 align="center"> <strong> Contact the software team </strong> </h3>
+ <p align="center">
+    <a href="https://www.linkedin.com/in/parthoshaon/"> <strong> Partho Sarothi Roy </strong> </a>
+    ·
+    <a href="https://www.linkedin.com/in/mahabubul470/"> <strong> Mahabubul Hasan </strong> </a>
+    ·
+    <a href="https://www.linkedin.com/in/khaliduzzaman-mredul-b5ab93225/"> <strong> Khaliduzzaman Mredul </strong> </a>
+ </p>
 
 
 

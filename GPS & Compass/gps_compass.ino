@@ -163,7 +163,7 @@ bool gps_availability()
 
 
 
-//------------------------------------------------CALCULATION PART--------------------------------------------------------------
+//------- -----------------------------------------CALCULATION PART--------------------------------------------------------------
 void distance()
 {
 	  //------------------------------------------Check The next GOAL Coordinate-----------------------------------------
@@ -226,7 +226,7 @@ void distance()
 	  //-----------------------------Check if the ROVER reached to GOAL Cordinate, if yes then its target the next GOAL--------------------------------
       if(DISTANCE_CALC < 4 )
       {
-          if(COORDINATE==TOTAL_COORDINATE)
+          if(COORDINATE == TOTAL_COORDINATE)
           {
               //done();
           }
